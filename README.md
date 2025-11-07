@@ -1,5 +1,5 @@
 Chat App — Project Work, Sprint 1  
-
+design from https://www.figma.com/design/EH4Jx76LjuEwBAvbL8xX0F/module-1-y?node-id=65-1651&t=js3gJJoXdIv4a2wo-1
 
 ## About Project  
 The projects goal is to lay out and structure the messenger interface, using the Handlebars template engine, modular architecture, and an SCSS preprocessor.
